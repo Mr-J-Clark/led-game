@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "neopixel": "github:Microsoft/pxt-neopixel#v0.7.3"
+        "neopixel": "github:Microsoft/pxt-neopixel#v0.7.3",
+        "LED game": "github:mr-j-clark/led-game#9cbae9bbbb57eb928af96f6ecd8bed5d462dfee4"
     },
     "files": [
         "main.blocks",
